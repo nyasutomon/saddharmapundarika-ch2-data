@@ -1,0 +1,194 @@
+[
+  {
+    "unit": "Verse",
+    "mode": "legacy",
+    "file": "(1) Chap_II_SMSR_gatha1-145_20260731.txt",
+    "sha256": "dd7993d840e0cee9548f29953c1551b1aea8672404b1c21e040fa650cf275b9f",
+    "blocks": 300,
+    "all_rows_34": true
+  },
+  {
+    "unit": "Verse",
+    "mode": "unicode",
+    "file": "(1) Chap_II_SMSR_gatha1-145_20260731_UTF8.txt",
+    "sha256": "6dac534baf049e1629becbde34c0bf59e1287940846b6328b1614fe50f7066b7",
+    "blocks": 300,
+    "all_rows_34": true
+  },
+  {
+    "unit": "Prose",
+    "mode": "legacy",
+    "file": "(2) Chap II_SMSR_prose_20260807.txt",
+    "sha256": "19fe71aabcf5c2dc60a2df97fa61271ae444c7c51f57261c3401487e7160b353",
+    "blocks": 159,
+    "all_rows_34": true
+  },
+  {
+    "unit": "Prose",
+    "mode": "unicode",
+    "file": "(2) Chap II_SMSR_prose_20260807_UTF8.txt",
+    "sha256": "bc1ec0466c40ac0c5dd0bfcd412594b8346349cc66de0add2ae356065191bf2b",
+    "blocks": 159,
+    "all_rows_34": true
+  },
+  {
+    "unit": "Whole",
+    "mode": "legacy",
+    "file": "(3) Chap_II_SMSR_all_20260807.txt",
+    "sha256": "3859e381d869b51ac71b012f51e9c23a5c4922b7d5a242ebfb2acd1caf1a60ca",
+    "blocks": 459,
+    "all_rows_34": true
+  },
+  {
+    "unit": "Whole",
+    "mode": "unicode",
+    "file": "(3) Chap_II_SMSR_all_20260807_UTF8.txt",
+    "sha256": "6c4e25e55958325a26f252477ac13aa44f61e73725b4fe629430ed120ac37a15",
+    "blocks": 459,
+    "all_rows_34": true
+  },
+  {
+    "unit": "G1",
+    "mode": "legacy",
+    "file": "(4) (G1) Chap_II_SMSR_gatha1-7_20260731.txt",
+    "sha256": "ffe89677dd908288daae5135ca7cca2fb6f1edff0b28b8815cae05196713d6cc",
+    "blocks": 14,
+    "all_rows_34": true
+  },
+  {
+    "unit": "G1",
+    "mode": "unicode",
+    "file": "(4) (G1) Chap_II_SMSR_gatha1-7_20260731_UTF8.txt",
+    "sha256": "265818524fc3ff5d2e6ca8decab3d53fde43cfbc80adea06e7d71d9de804d0d8",
+    "blocks": 14,
+    "all_rows_34": true
+  },
+  {
+    "unit": "G2",
+    "mode": "legacy",
+    "file": "(5) (G2) Chap_II_SMSR_gatha8-21_20260731.txt",
+    "sha256": "0d67f50b207dd60e1393086757bb173dca0ad5b99f943f9f6a82efe23f647c1b",
+    "blocks": 28,
+    "all_rows_34": true
+  },
+  {
+    "unit": "G2",
+    "mode": "unicode",
+    "file": "(5) (G2) Chap_II_SMSR_gatha8-21_20260731_UTF8.txt",
+    "sha256": "461f5a79d905e3ba1ff31670f67a3fac81a6bb7eec719bcc59f2463d525a271e",
+    "blocks": 28,
+    "all_rows_34": true
+  },
+  {
+    "unit": "G3",
+    "mode": "legacy",
+    "file": "(6) (G3) Chap_II_SMSR_gatha22-29_20260731.txt",
+    "sha256": "466535a2a848fcf963b539924515f35fda24d9bff7ad84b9506356efbed7da79",
+    "blocks": 16,
+    "all_rows_34": true
+  },
+  {
+    "unit": "G3",
+    "mode": "unicode",
+    "file": "(6) (G3) Chap_II_SMSR_gatha22-29_20260731_UTF8.txt",
+    "sha256": "6277df2acf1a0c2bde1561ae9cbe8b16a7cd64bdd445200196c4d059d6265d48",
+    "blocks": 16,
+    "all_rows_34": true
+  },
+  {
+    "unit": "G4",
+    "mode": "legacy",
+    "file": "(7) (G4) Chap_II_SMSR_gatha30-37_20260731.txt",
+    "sha256": "7ec996d00774b3259565f324888c1fc10484619a8dc89e026e3c99538fc400ed",
+    "blocks": 16,
+    "all_rows_34": true
+  },
+  {
+    "unit": "G4",
+    "mode": "unicode",
+    "file": "(7) (G4) Chap_II_SMSR_gatha30-37_20260731_UTF8.txt",
+    "sha256": "edb2ec336449db231f1e9cfdceed2a36dddeca6cdee8368f8e8d204eda2baa20",
+    "blocks": 16,
+    "all_rows_34": true
+  },
+  {
+    "unit": "G5",
+    "mode": "legacy",
+    "file": "(8) (G5) Chap_II_SMSR_gatha38-41_20260731.txt",
+    "sha256": "37ab61df25aef4fb9fdf99babf5bbac79069438c0b1867d2434e8cab4c8b83d1",
+    "blocks": 8,
+    "all_rows_34": true
+  },
+  {
+    "unit": "G5",
+    "mode": "unicode",
+    "file": "(8) (G5) Chap_II_SMSR_gatha38-41_20260731_UTF8.txt",
+    "sha256": "ecc52d6af83f399858b722e457aad604965991188ca8d8af5e5d98bec8230f71",
+    "blocks": 8,
+    "all_rows_34": true
+  },
+  {
+    "unit": "G6",
+    "mode": "legacy",
+    "file": "(9) (G6) Chap_II_SMSR_gatha42-145_20260731.txt",
+    "sha256": "cc43d5656470ed493e3771323e935f605325dff9426ccc3975b6a68b537775fb",
+    "blocks": 218,
+    "all_rows_34": true
+  },
+  {
+    "unit": "G6",
+    "mode": "unicode",
+    "file": "(9) (G6) Chap_II_SMSR_gatha42-145_20260731_UTF8.txt",
+    "sha256": "67041c29e23219aee08844fcc407dbc76ef4aa7b51f28a5a09087bd486a4e549",
+    "blocks": 218,
+    "all_rows_34": true
+  },
+  {
+    "unit": "Pr1",
+    "mode": "legacy",
+    "file": "(10) (P1) Chap II_SMSR_prose_29.1-30.8_20260803.txt",
+    "sha256": "918092ef56f350c4ff666b83dc9eaac157480c59015e5403279623686f700820",
+    "blocks": 22,
+    "all_rows_34": true
+  },
+  {
+    "unit": "Pr1",
+    "mode": "unicode",
+    "file": "(10) (P1) Chap II_SMSR_prose_29.1-30.8_20260803_UTF8.txt",
+    "sha256": "2909a62c3ae237175a9bf3c43275f9594396bf7bd8de18254c92a9d8327b6f20",
+    "blocks": 22,
+    "all_rows_34": true
+  },
+  {
+    "unit": "Pr2",
+    "mode": "legacy",
+    "file": "(11) (P2) Chap II_SMSR_prose_33.5-38.1_20260803.txt",
+    "sha256": "ac6798335ca902ce23410f70f9329629a260823dcd7916a22ca88e6f2ddeab55",
+    "blocks": 34,
+    "all_rows_34": true
+  },
+  {
+    "unit": "Pr2",
+    "mode": "unicode",
+    "file": "(11) (P2) Chap II_SMSR_prose_33.5-38.1_20260803_UTF8.txt",
+    "sha256": "3a948ff5ff019de6ddacee9fdf82770c2eee6e564fb5e3c8b1745b0e0ad21f06",
+    "blocks": 34,
+    "all_rows_34": true
+  },
+  {
+    "unit": "Pr3",
+    "mode": "legacy",
+    "file": "(12) (P3) Chap II_SMSR_prose_38.8-59.7_20260807.txt",
+    "sha256": "668dc482654044bbdc5554cd3d48dc4139463b9f97fba70c3257635cf3d53138",
+    "blocks": 103,
+    "all_rows_34": true
+  },
+  {
+    "unit": "Pr3",
+    "mode": "unicode",
+    "file": "(12) (P3) Chap II_SMSR_prose_38.8-59.7_20260807_UTF8.txt",
+    "sha256": "9ae098558cf069da9f06c074321e92520d7499e296be2d42d504ca6864f83141",
+    "blocks": 103,
+    "all_rows_34": true
+  }
+]
