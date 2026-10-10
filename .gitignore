@@ -1,0 +1,6 @@
+work/
+results/recomputed/
+__pycache__/
+*.pyc
+data/transcriptions/*.txt
+data/encoding/*-legacy-spans.json.gz

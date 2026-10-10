@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Cite the dataset version and the SMSR source in docs/PROVENANCE.md."
+type: dataset
+title: "Saddharmapuṇḍarīka Chapter 2 similarity matrices and reproducibility audit (transcriptions excluded)"
+authors:
+  - family-names: "Nishi"
+    given-names: "Yasutomo"
+version: "1.0.1"
+date-released: "2026-10-10"
+repository-code: "https://github.com/nyasutomon/saddharmapundarika-ch2-data"
+keywords:
+  - "Buddhist Studies"
+  - "Lotus Sutra"
+  - "Quantitative Philology"
+  - "Textual Variation"
+  - "Manuscript Transmission"

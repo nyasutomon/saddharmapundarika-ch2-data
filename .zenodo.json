@@ -1,0 +1,29 @@
+{
+  "title": "Saddharmapuṇḍarīka Chapter 2 similarity matrices and reproducibility audit (transcriptions excluded)",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Nishi, Yasutomo"
+    }
+  ],
+  "description": "<p>Original Chapter 2 similarity matrices and an independent reproducibility audit supporting Yasutomo Nishi's ASCJ 2027 research: 33 manuscript witnesses plus a KN reference row. Includes 24 unchanged original CSV exports, numerical audit reference results, generic character mapping, manifests, documentation and audit scripts.</p><p><strong>SMSR II transcription texts and all 12 text-specific legacy restoration annotation files are excluded because redistribution permission has not been obtained.</strong> Recalculation requires lawfully obtained external private inputs. The public release alone cannot reproduce the text-based scores. The earlier v1.0.0 archive contains transcription text and its files have been restricted; the old GitHub history is private.</p><p>Component licences: original CSV exports — CC BY 4.0 with Chihiro Mayuzumi's permission (confirmed by the depositor on 10 October 2026); credit Mayuzumi as creator and Nishi as curator. Audit scripts — MIT, copyright (c) 2026 Yasutomo Nishi. Nishi's original documentation, metadata, numerical audit results and generic encoding mapping — CC BY 4.0. See RIGHTS.md and directory LICENSE files. No licence for SMSR II text is granted.</p><p>Previous audit: G3 and G5 each reproduce 406 positive exported pair scores in legacy font units. Ten other units remain unresolved under the uniform baseline. Twenty-two ranking order inversions are preserved in original exports; numerical rankings are separate results.</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "notes": "CC BY 4.0 applies to matrices and original documentation/metadata/numerical audit results/generic encoding mapping; scripts/ are MIT. Component scope is specified in RIGHTS.md and directory LICENSE files. No SMSR II transcription text or text-specific restoration annotations are distributed. Source-text permissions remain with the respective rights holders. Recalculation requires private inputs.",
+  "keywords": [
+    "Buddhist Studies",
+    "Saddharmapuṇḍarīka",
+    "Lotus Sutra",
+    "Quantitative Philology",
+    "Textual Variation",
+    "Manuscript Transmission",
+    "Levenshtein distance"
+  ],
+  "language": "eng",
+  "contributors": [
+    {
+      "name": "Mayuzumi, Chihiro",
+      "type": "DataManager"
+    }
+  ]
+}
