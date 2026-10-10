@@ -9,6 +9,10 @@ independent numerical audit supporting Yasutomo Nishi's ASCJ 2027 research.
 The corpus contains 33 manuscript witnesses and an additional KN reference row.
 The principal chapter-wide interpretation excludes F and M, leaving 31 witnesses.
 
+Public repository: https://github.com/nyasutomon/saddharmapundarika-ch2-matrices
+
+v1.0.2 updates automatic archival integration and citation metadata. Numerical data and source exclusions are unchanged.
+
 ## Contents
 
 - SMSR II transcription texts: excluded; `data/transcriptions/` contains only a notice.
