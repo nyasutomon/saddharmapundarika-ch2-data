@@ -1,0 +1,182 @@
+[
+  {
+    "path": "data/transcriptions/(1) Chap_II_SMSR_gatha1-145_20260731_UTF8.txt",
+    "bytes": 793242,
+    "sha256": "6dac534baf049e1629becbde34c0bf59e1287940846b6328b1614fe50f7066b7"
+  },
+  {
+    "path": "data/transcriptions/(10) (P1) Chap II_SMSR_prose_29.1-30.8_20260803_UTF8.txt",
+    "bytes": 70714,
+    "sha256": "2909a62c3ae237175a9bf3c43275f9594396bf7bd8de18254c92a9d8327b6f20"
+  },
+  {
+    "path": "data/transcriptions/(11) (P2) Chap II_SMSR_prose_33.5-38.1_20260803_UTF8.txt",
+    "bytes": 114011,
+    "sha256": "3a948ff5ff019de6ddacee9fdf82770c2eee6e564fb5e3c8b1745b0e0ad21f06"
+  },
+  {
+    "path": "data/transcriptions/(12) (P3) Chap II_SMSR_prose_38.8-59.7_20260807_UTF8.txt",
+    "bytes": 366430,
+    "sha256": "9ae098558cf069da9f06c074321e92520d7499e296be2d42d504ca6864f83141"
+  },
+  {
+    "path": "data/transcriptions/(2) Chap II_SMSR_prose_20260807_UTF8.txt",
+    "bytes": 550232,
+    "sha256": "bc1ec0466c40ac0c5dd0bfcd412594b8346349cc66de0add2ae356065191bf2b"
+  },
+  {
+    "path": "data/transcriptions/(3) Chap_II_SMSR_all_20260807_UTF8.txt",
+    "bytes": 1343447,
+    "sha256": "6c4e25e55958325a26f252477ac13aa44f61e73725b4fe629430ed120ac37a15"
+  },
+  {
+    "path": "data/transcriptions/(4) (G1) Chap_II_SMSR_gatha1-7_20260731_UTF8.txt",
+    "bytes": 28619,
+    "sha256": "265818524fc3ff5d2e6ca8decab3d53fde43cfbc80adea06e7d71d9de804d0d8"
+  },
+  {
+    "path": "data/transcriptions/(5) (G2) Chap_II_SMSR_gatha8-21_20260731_UTF8.txt",
+    "bytes": 73804,
+    "sha256": "461f5a79d905e3ba1ff31670f67a3fac81a6bb7eec719bcc59f2463d525a271e"
+  },
+  {
+    "path": "data/transcriptions/(6) (G3) Chap_II_SMSR_gatha22-29_20260731_UTF8.txt",
+    "bytes": 31639,
+    "sha256": "6277df2acf1a0c2bde1561ae9cbe8b16a7cd64bdd445200196c4d059d6265d48"
+  },
+  {
+    "path": "data/transcriptions/(7) (G4) Chap_II_SMSR_gatha30-37_20260731_UTF8.txt",
+    "bytes": 43905,
+    "sha256": "edb2ec336449db231f1e9cfdceed2a36dddeca6cdee8368f8e8d204eda2baa20"
+  },
+  {
+    "path": "data/transcriptions/(8) (G5) Chap_II_SMSR_gatha38-41_20260731_UTF8.txt",
+    "bytes": 17007,
+    "sha256": "ecc52d6af83f399858b722e457aad604965991188ca8d8af5e5d98bec8230f71"
+  },
+  {
+    "path": "data/transcriptions/(9) (G6) Chap_II_SMSR_gatha42-145_20260731_UTF8.txt",
+    "bytes": 598268,
+    "sha256": "67041c29e23219aee08844fcc407dbc76ef4aa7b51f28a5a09087bd486a4e549"
+  },
+  {
+    "path": "data/matrices/exported/Matrix Data (1)-(3)/correlation_matrix-(1) Chap_II_SMSR_gatha1-145_20260731.csv",
+    "bytes": 20544,
+    "sha256": "0ea68212f7320af85748a02b364c1b18123e2540f407f120a007da0a94115904"
+  },
+  {
+    "path": "data/matrices/exported/Matrix Data (1)-(3)/correlation_matrix-(2) Chap II_SMSR_prose_20260807.csv",
+    "bytes": 20622,
+    "sha256": "963aaa1cef23256ec66d252e45ad2c4f5d7cffb0122ca4e5be29fab3bbf69fe4"
+  },
+  {
+    "path": "data/matrices/exported/Matrix Data (1)-(3)/correlation_matrix-(3) Chap_II_SMSR_all_20260807.csv",
+    "bytes": 20656,
+    "sha256": "641b2ca75467caa8fafc050b15530624e11be54962714a321a8515369b507e8b"
+  },
+  {
+    "path": "data/matrices/exported/Matrix Data (1)-(3)/similarity_matrix-(1) Chap_II_SMSR_gatha1-145_20260731.csv",
+    "bytes": 10395,
+    "sha256": "2dd830e54bd52cb50955d0bfb7ddcbc2025272d58afbeb6df24a0c55211a4eed"
+  },
+  {
+    "path": "data/matrices/exported/Matrix Data (1)-(3)/similarity_matrix-(2) Chap II_SMSR_prose_20260807.csv",
+    "bytes": 10405,
+    "sha256": "8d766cfba3967a78282ea96f4d6a058582e7447b7a566c019e9d48228e19c15d"
+  },
+  {
+    "path": "data/matrices/exported/Matrix Data (1)-(3)/similarity_matrix-(3) Chap_II_SMSR_all_20260807.csv",
+    "bytes": 10395,
+    "sha256": "25a2b68e4c3fc5da3618ae706e1ea0594874a38a56b34ce510804a9592231d96"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/correlation_matrix-(10) (P1) Chap II_SMSR_prose_29.1-30.8_20260803.csv",
+    "bytes": 16879,
+    "sha256": "00332245b4a95eb26ff2f9f18a7430abfc34f9396993f3df30947d8b946b0687"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/correlation_matrix-(11) (P2) Chap II_SMSR_prose_33.5-38.1_20260803.csv",
+    "bytes": 18643,
+    "sha256": "c9ec39258c0b5177d2d39c753f61bf80d48a7c1ca2acbd435a01e59971f8725d"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/correlation_matrix-(12) (P3) Chap II_SMSR_prose_38.8-59.7_20260807.csv",
+    "bytes": 20581,
+    "sha256": "161d0611e8c282e5fec8ed827b7d72ae555b7d214687f43b3d8e34561af6245b"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/correlation_matrix-(4) (G1) Chap_II_SMSR_gatha1-7_20260731.csv",
+    "bytes": 16901,
+    "sha256": "fd9fe7421da99cac53dfe194d5cd5646850c35ebc7beb14e3157185e7b0ddefc"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/correlation_matrix-(5) (G2) Chap_II_SMSR_gatha8-21_20260731.csv",
+    "bytes": 18647,
+    "sha256": "f125bab227fae69385e935c8b4e0fe1e9e5e4a87b30be59e62a38937d92e50f7"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/correlation_matrix-(6) (G3) Chap_II_SMSR_gatha22-29_20260731.csv",
+    "bytes": 17779,
+    "sha256": "2b2ee427866d0d06d4c3cb48394f3c74326baaa44eebd41be9e32783f85f65c4"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/correlation_matrix-(7) (G4) Chap_II_SMSR_gatha30-37_20260731.csv",
+    "bytes": 17767,
+    "sha256": "861bbfa42e5fc25f303ff66dc1dc93c6e8c7ad5577735455878c5f56850c9219"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/correlation_matrix-(8) (G5) Chap_II_SMSR_gatha38-41_20260731.csv",
+    "bytes": 17771,
+    "sha256": "deeb6eca4259ce7ddd8da061063f78fd1422e0f897f4f7a6a4c0f72694186e55"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/correlation_matrix-(9) (G6) Chap_II_SMSR_gatha42-145_20260731.csv",
+    "bytes": 20481,
+    "sha256": "b43fa8b7315b3d1d86a6116e601eb5c6292185fd7dda1c65cdbc282b2aa729cf"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/similarity_matrix-(10) (P1) Chap II_SMSR_prose_29.1-30.8_20260803.csv",
+    "bytes": 9910,
+    "sha256": "037179d33996757dd2f88a2ab402682d801f12b89269227f7707d5bc15383754"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/similarity_matrix-(11) (P2) Chap II_SMSR_prose_33.5-38.1_20260803.csv",
+    "bytes": 10120,
+    "sha256": "be197e3e0ac2af7668cc459fc40456f55480fd63906ca462cc202d90e0b827d2"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/similarity_matrix-(12) (P3) Chap II_SMSR_prose_38.8-59.7_20260807.csv",
+    "bytes": 10338,
+    "sha256": "f989a4ccd579ba304ab723a9ea0df5ed89e9ce27fc8cf90bbc4f843b7a1cea29"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/similarity_matrix-(4) (G1) Chap_II_SMSR_gatha1-7_20260731.csv",
+    "bytes": 9910,
+    "sha256": "cac73e4f7a624e4dc6f75b8eb290fda7eeaba11bbd543d623383f023bb719868"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/similarity_matrix-(5) (G2) Chap_II_SMSR_gatha8-21_20260731.csv",
+    "bytes": 10120,
+    "sha256": "3faa4f5951cc947cf1b7b2ed00cefe959070458ddd214bd45652416861b65de9"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/similarity_matrix-(6) (G3) Chap_II_SMSR_gatha22-29_20260731.csv",
+    "bytes": 10012,
+    "sha256": "4c3768199fb32ecede2a8e53198d61777bb09cad401b3f41f3b94b1bd31529b5"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/similarity_matrix-(7) (G4) Chap_II_SMSR_gatha30-37_20260731.csv",
+    "bytes": 10010,
+    "sha256": "47ca56c036c280077e424719547403b66ebcfa546e223b9e3bbd4e83d0864485"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/similarity_matrix-(8) (G5) Chap_II_SMSR_gatha38-41_20260731.csv",
+    "bytes": 10014,
+    "sha256": "dc375cf9b5d0ee9af5cf63361d14444f79a0692d15b7723ca1902e08b5f10eb1"
+  },
+  {
+    "path": "data/matrices/exported/G1-6_P1-P3_20260921/similarity_matrix-(9) (G6) Chap_II_SMSR_gatha42-145_20260731.csv",
+    "bytes": 10356,
+    "sha256": "17a37f6d9eab5082b86611b8fa944205a4b0cd01e1f7c9d2877bd1183b292bbd"
+  }
+]

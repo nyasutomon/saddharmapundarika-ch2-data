@@ -1,0 +1,86 @@
+[
+  {
+    "unit": "Verse",
+    "source": "(1) Chap_II_SMSR_gatha1-145_20260731_UTF8.txt",
+    "annotation": "data/encoding/01-verse-legacy-spans.json.gz",
+    "spans": 111634,
+    "legacy_sha256": "dd7993d840e0cee9548f29953c1551b1aea8672404b1c21e040fa650cf275b9f"
+  },
+  {
+    "unit": "Prose",
+    "source": "(2) Chap II_SMSR_prose_20260807_UTF8.txt",
+    "annotation": "data/encoding/02-prose-legacy-spans.json.gz",
+    "spans": 72511,
+    "legacy_sha256": "19fe71aabcf5c2dc60a2df97fa61271ae444c7c51f57261c3401487e7160b353"
+  },
+  {
+    "unit": "Whole",
+    "source": "(3) Chap_II_SMSR_all_20260807_UTF8.txt",
+    "annotation": "data/encoding/03-whole-legacy-spans.json.gz",
+    "spans": 184145,
+    "legacy_sha256": "3859e381d869b51ac71b012f51e9c23a5c4922b7d5a242ebfb2acd1caf1a60ca"
+  },
+  {
+    "unit": "G1",
+    "source": "(4) (G1) Chap_II_SMSR_gatha1-7_20260731_UTF8.txt",
+    "annotation": "data/encoding/04-g1-legacy-spans.json.gz",
+    "spans": 3974,
+    "legacy_sha256": "ffe89677dd908288daae5135ca7cca2fb6f1edff0b28b8815cae05196713d6cc"
+  },
+  {
+    "unit": "G2",
+    "source": "(5) (G2) Chap_II_SMSR_gatha8-21_20260731_UTF8.txt",
+    "annotation": "data/encoding/05-g2-legacy-spans.json.gz",
+    "spans": 10388,
+    "legacy_sha256": "0d67f50b207dd60e1393086757bb173dca0ad5b99f943f9f6a82efe23f647c1b"
+  },
+  {
+    "unit": "G3",
+    "source": "(6) (G3) Chap_II_SMSR_gatha22-29_20260731_UTF8.txt",
+    "annotation": "data/encoding/06-g3-legacy-spans.json.gz",
+    "spans": 4665,
+    "legacy_sha256": "466535a2a848fcf963b539924515f35fda24d9bff7ad84b9506356efbed7da79"
+  },
+  {
+    "unit": "G4",
+    "source": "(7) (G4) Chap_II_SMSR_gatha30-37_20260731_UTF8.txt",
+    "annotation": "data/encoding/07-g4-legacy-spans.json.gz",
+    "spans": 6186,
+    "legacy_sha256": "7ec996d00774b3259565f324888c1fc10484619a8dc89e026e3c99538fc400ed"
+  },
+  {
+    "unit": "G5",
+    "source": "(8) (G5) Chap_II_SMSR_gatha38-41_20260731_UTF8.txt",
+    "annotation": "data/encoding/08-g5-legacy-spans.json.gz",
+    "spans": 2722,
+    "legacy_sha256": "37ab61df25aef4fb9fdf99babf5bbac79069438c0b1867d2434e8cab4c8b83d1"
+  },
+  {
+    "unit": "G6",
+    "source": "(9) (G6) Chap_II_SMSR_gatha42-145_20260731_UTF8.txt",
+    "annotation": "data/encoding/09-g6-legacy-spans.json.gz",
+    "spans": 83699,
+    "legacy_sha256": "cc43d5656470ed493e3771323e935f605325dff9426ccc3975b6a68b537775fb"
+  },
+  {
+    "unit": "Pr1",
+    "source": "(10) (P1) Chap II_SMSR_prose_29.1-30.8_20260803_UTF8.txt",
+    "annotation": "data/encoding/10-pr1-legacy-spans.json.gz",
+    "spans": 10349,
+    "legacy_sha256": "918092ef56f350c4ff666b83dc9eaac157480c59015e5403279623686f700820"
+  },
+  {
+    "unit": "Pr2",
+    "source": "(11) (P2) Chap II_SMSR_prose_33.5-38.1_20260803_UTF8.txt",
+    "annotation": "data/encoding/11-pr2-legacy-spans.json.gz",
+    "spans": 16269,
+    "legacy_sha256": "ac6798335ca902ce23410f70f9329629a260823dcd7916a22ca88e6f2ddeab55"
+  },
+  {
+    "unit": "Pr3",
+    "source": "(12) (P3) Chap II_SMSR_prose_38.8-59.7_20260807_UTF8.txt",
+    "annotation": "data/encoding/12-pr3-legacy-spans.json.gz",
+    "spans": 46829,
+    "legacy_sha256": "668dc482654044bbdc5554cd3d48dc4139463b9f97fba70c3257635cf3d53138"
+  }
+]
