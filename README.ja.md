@@ -1,5 +1,10 @@
 # サンスクリット法華経第2章 類似度行列と再現性監査
 
+## 新規解析の補足資料 v1.1.0
+
+[補足資料S1](SUPPLEMENTARY_S1.md)に、ブロック数値・欠測マスク・再重み付けと感度分析コード・結果・600dpi図を収録しました。[ダウンロード](Supplementary_Material_S1_v1.1.0.zip)。SMSR転写・影印画像は含めません。以下のDOIは旧v1.0.2の監査を指し、新規解析のDOIではありません。
+
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23276190.svg)](https://doi.org/10.5281/zenodo.23276190)
 
 自動保存された v1.0.2: https://doi.org/10.5281/zenodo.23276190

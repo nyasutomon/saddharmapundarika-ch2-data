@@ -72,3 +72,8 @@ Numerical matrix exports have Chihiro Mayuzumi's permission for CC BY 4.0.
 The public code uses external, lawfully obtained private transcriptions and
 restoration annotations. Do not commit those inputs or generated text to this
 public repository. Checksums and numerical results do not grant source-text rights.
+
+
+## Numerical supplement v1.1.0
+
+The component licences inside Supplementary_Material_S1_v1.1.0.zip apply: scripts are MIT; Nishi's original derived numeric data, results, metadata, documentation and figures are CC BY 4.0. The ZIP excludes SMSR transcription texts, text-specific restoration annotations and facsimile images. The supplement grants no rights over excluded inputs.

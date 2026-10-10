@@ -5,7 +5,7 @@ title: "Saddharmapuṇḍarīka Chapter 2 similarity matrices and reproducibilit
 authors:
   - family-names: "Nishi"
     given-names: "Yasutomo"
-version: "1.0.2"
+version: "1.1.0"
 date-released: "2026-10-10"
 repository-code: "https://github.com/nyasutomon/saddharmapundarika-ch2-matrices"
 keywords:
@@ -14,5 +14,4 @@ keywords:
   - "Quantitative Philology"
   - "Textual Variation"
   - "Manuscript Transmission"
-doi: "10.5281/zenodo.23276190"
-url: "https://doi.org/10.5281/zenodo.23276190"
+url: "https://github.com/nyasutomon/saddharmapundarika-ch2-matrices/releases/tag/v1.1.0"
