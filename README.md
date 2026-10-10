@@ -1,8 +1,10 @@
 # Saddharmapuṇḍarīka Chapter 2 data and reproducibility audit
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23275839.svg)](https://doi.org/10.5281/zenodo.23275839)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23276190.svg)](https://doi.org/10.5281/zenodo.23276190)
 
-Archived v1.0.1 (transcriptions excluded): https://doi.org/10.5281/zenodo.23275839
+Automatically archived v1.0.2: https://doi.org/10.5281/zenodo.23276190
+
+Previously archived v1.0.1 (transcriptions excluded): https://doi.org/10.5281/zenodo.23275839
 
 Original exported similarity matrices and an
 independent numerical audit supporting Yasutomo Nishi's ASCJ 2027 research.

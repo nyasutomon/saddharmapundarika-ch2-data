@@ -1,8 +1,10 @@
 # サンスクリット法華経第2章 類似度行列と再現性監査
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23275839.svg)](https://doi.org/10.5281/zenodo.23275839)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23276190.svg)](https://doi.org/10.5281/zenodo.23276190)
 
-転写を含まない v1.0.1 保存版: https://doi.org/10.5281/zenodo.23275839
+自動保存された v1.0.2: https://doi.org/10.5281/zenodo.23276190
+
+転写を含まない旧 v1.0.1 保存版: https://doi.org/10.5281/zenodo.23275839
 
 SMSR II 転写の再配布許諾がないため、転写テキスト12ファイルと、本文に対応する
 旧文字復元用注釈12ファイルを公開対象から除外しました。この公開リポジトリの
