@@ -1,3 +1,10 @@
+# Version 1.0.2 — automatic archival integration repair
+
+- Public repository renamed to `nyasutomon/saddharmapundarika-ch2-matrices` to resolve a conflict with the previous repository name in Zenodo. The previous public GitHub URL redirects to the new location.
+- GitHub account linkage refreshed and release webhook re-registered.
+- Citation metadata updated for v1.0.2; its DOI is assigned by Zenodo when automatically archived. The manually archived v1.0.1 remains at https://doi.org/10.5281/zenodo.23275839.
+- Matrix files, audit scripts, numerical results, source exclusions and component licences are unchanged.
+
 # Version 1.0.1 — source exclusion and component licences
 
 - Excluded all 12 SMSR II transcription texts and 12 text-specific restoration annotation files because redistribution permission has not been obtained.
