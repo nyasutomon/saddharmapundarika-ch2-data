@@ -1,5 +1,7 @@
 # Supplementary Material S1 for the DSH manuscript
 
+Zenodo DOI for this version: https://doi.org/10.5281/zenodo.23277312
+
 Release v1.1.0 adds the numerical supplement prepared on 10 October 2026 for
 Yasutomo Nishi's manuscript *Textual Variation and Manuscript Transmission in
 the Saddharmapuṇḍarīka: A Quantitative Philological Approach*.

@@ -2,6 +2,8 @@
 
 ## New numerical supplement v1.1.0
 
+Zenodo v1.1.0 DOI: https://doi.org/10.5281/zenodo.23277312
+
 [Supplementary Material S1](SUPPLEMENTARY_S1.md) contains derived block scores, masks, joint block reweighting and grouping code, unrounded results, and 600-dpi figures. [Download the supplement](Supplementary_Material_S1_v1.1.0.zip). No SMSR transcription or facsimile images are included. The DOI below identifies the earlier v1.0.2 audit, not the new supplement.
 
 

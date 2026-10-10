@@ -2,6 +2,8 @@
 
 ## 新規解析の補足資料 v1.1.0
 
+Zenodo v1.1.0 DOI: https://doi.org/10.5281/zenodo.23277312
+
 [補足資料S1](SUPPLEMENTARY_S1.md)に、ブロック数値・欠測マスク・再重み付けと感度分析コード・結果・600dpi図を収録しました。[ダウンロード](Supplementary_Material_S1_v1.1.0.zip)。SMSR転写・影印画像は含めません。以下のDOIは旧v1.0.2の監査を指し、新規解析のDOIではありません。
 
 
